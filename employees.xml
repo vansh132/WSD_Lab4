@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee id="101">
+        <personalInformation>
+            <firstName>Vansh</firstName>
+            <lastName>Shah</lastName>
+            <dateOfBirth>2002-07-19</dateOfBirth>
+            <gender>Male</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Hardware Engineer</position>
+            <salary>80000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>vansh@gmail.com</email>
+            <phoneNumber>9457387645</phoneNumber>
+        </contactInformation>
+    </employee>
+    <employee id="102">
+        <personalInformation>
+            <firstName>Himanshu</firstName>
+            <lastName>Mehta</lastName>
+            <dateOfBirth>1990-04-15</dateOfBirth>
+            <gender>Male</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>HR Manager</position>
+            <salary>75000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>himanshu@gmail.com</email>
+            <phoneNumber>9876542210</phoneNumber>
+        </contactInformation>
+    </employee>
+    <employee id="103">
+        <personalInformation>
+            <firstName>Joy</firstName>
+            <lastName>Christian</lastName>
+            <dateOfBirth>1971-02-10</dateOfBirth>
+            <gender>Male</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Accountant</position>
+            <salary>60000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>joy.christian@yahoo.com</email>
+            <phoneNumber>787482965</phoneNumber>
+        </contactInformation>
+    </employee>
+</employees>
